@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abisha C</h1>
-
+<p align="center">
+  <img src="Abishac.jpeg" width="220" style="border-radius: 50%; border: 4px solid #556B2F;" />
+</p>
 <p align="center">
   <b>Data Analyst | Junior Data Scientist</b><br>
   SQL • Python • Power BI • Machine Learning
